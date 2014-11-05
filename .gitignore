@@ -34,8 +34,11 @@ proguard/
 .settings/
 .DS_Store
 .Temp/
+Temp/
 
 # for gradle build files
 tmp
 build
 .gradle
+
+Temp/UnityTempFile-e12e7929e7ce84a72849493caa70c1dd
